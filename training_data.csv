@@ -1,0 +1,1001 @@
+attendance,phone_events,interactions,activity_level,category
+68,10,10,52,Needs Attention
+52,2,1,39,Needs Attention
+54,9,5,29,Needs Attention
+95,10,10,25,Needs Attention
+59,9,1,20,Needs Attention
+57,4,9,77,Needs Attention
+44,6,10,33,Needs Attention
+44,3,2,34,Needs Attention
+63,4,2,78,Needs Attention
+69,8,4,37,Needs Attention
+77,8,8,29,Needs Attention
+50,7,5,35,Needs Attention
+56,5,8,32,Needs Attention
+58,7,8,86,Needs Attention
+95,4,3,89,Good
+51,6,6,94,Needs Attention
+67,2,4,94,Good
+49,7,1,23,Needs Attention
+67,1,6,85,Needs Attention
+54,7,5,22,Needs Attention
+50,6,8,62,Needs Attention
+74,10,3,31,Needs Attention
+51,7,1,87,Needs Attention
+100,8,10,49,Needs Attention
+59,7,4,37,Needs Attention
+85,10,9,75,Needs Attention
+66,8,7,30,Needs Attention
+50,0,6,57,Needs Attention
+51,0,5,54,Needs Attention
+94,3,7,89,Needs Attention
+78,1,1,95,Excellent
+43,0,5,32,Needs Attention
+71,8,5,82,Needs Attention
+70,0,4,69,Good
+46,3,6,40,Needs Attention
+95,9,2,59,Needs Attention
+94,10,9,32,Needs Attention
+46,4,8,79,Needs Attention
+45,5,10,34,Needs Attention
+80,2,9,26,Needs Attention
+41,3,9,85,Needs Attention
+82,9,10,75,Needs Attention
+79,8,6,50,Needs Attention
+83,7,1,48,Needs Attention
+86,6,0,52,Needs Attention
+47,4,2,29,Needs Attention
+49,5,9,79,Needs Attention
+83,9,1,41,Needs Attention
+83,10,0,26,Needs Attention
+64,10,5,97,Needs Attention
+51,10,1,76,Needs Attention
+53,4,3,96,Needs Attention
+89,9,4,48,Needs Attention
+87,10,7,60,Needs Attention
+97,9,9,77,Needs Attention
+52,7,5,57,Needs Attention
+97,7,2,94,Good
+58,6,2,63,Needs Attention
+59,1,6,22,Needs Attention
+51,5,9,100,Needs Attention
+56,1,4,65,Good
+83,2,9,67,Good
+99,2,4,35,Good
+71,6,9,66,Needs Attention
+62,5,8,59,Needs Attention
+64,6,5,35,Needs Attention
+100,4,6,94,Needs Attention
+68,7,4,56,Needs Attention
+74,1,1,90,Good
+69,7,8,94,Needs Attention
+47,4,6,66,Needs Attention
+50,0,9,79,Needs Attention
+62,0,6,30,Needs Attention
+89,1,9,37,Needs Attention
+46,7,1,76,Needs Attention
+94,10,6,75,Needs Attention
+47,5,6,34,Needs Attention
+72,3,5,34,Needs Attention
+100,8,5,100,Needs Attention
+74,0,8,78,Needs Attention
+72,10,1,62,Needs Attention
+64,4,9,57,Needs Attention
+96,5,7,67,Needs Attention
+60,0,6,68,Needs Attention
+53,10,2,46,Needs Attention
+69,1,8,34,Needs Attention
+100,2,9,40,Needs Attention
+40,9,3,92,Needs Attention
+52,10,6,45,Needs Attention
+54,8,6,80,Needs Attention
+58,10,5,47,Needs Attention
+46,9,2,31,Needs Attention
+67,10,9,51,Needs Attention
+68,1,8,42,Needs Attention
+82,8,1,73,Good
+77,0,3,90,Excellent
+55,9,0,55,Needs Attention
+79,8,7,78,Needs Attention
+81,3,1,39,Needs Attention
+48,9,4,76,Needs Attention
+83,0,0,20,Good
+66,5,3,76,Needs Attention
+50,2,5,71,Needs Attention
+48,5,8,24,Needs Attention
+43,0,1,97,Good
+48,7,1,65,Needs Attention
+99,9,0,85,Good
+90,2,6,31,Needs Attention
+43,9,1,80,Needs Attention
+42,10,1,41,Needs Attention
+71,1,9,33,Needs Attention
+61,9,6,96,Needs Attention
+99,7,10,32,Needs Attention
+48,0,5,90,Needs Attention
+94,3,10,50,Needs Attention
+80,5,10,52,Needs Attention
+75,9,8,64,Needs Attention
+45,4,9,45,Needs Attention
+75,5,5,29,Needs Attention
+88,8,9,41,Needs Attention
+68,1,5,78,Needs Attention
+60,3,7,52,Needs Attention
+40,1,0,32,Needs Attention
+93,9,4,94,Good
+96,2,10,60,Needs Attention
+87,10,4,44,Needs Attention
+81,6,6,64,Needs Attention
+91,10,3,23,Needs Attention
+51,3,9,30,Needs Attention
+61,1,6,23,Needs Attention
+51,1,6,59,Needs Attention
+53,10,6,82,Needs Attention
+71,6,6,70,Needs Attention
+59,6,0,24,Needs Attention
+43,2,5,97,Needs Attention
+55,8,4,77,Needs Attention
+47,6,3,99,Needs Attention
+48,6,5,74,Needs Attention
+59,0,10,52,Needs Attention
+89,1,1,52,Good
+47,0,6,52,Needs Attention
+55,3,0,46,Needs Attention
+73,6,10,98,Needs Attention
+58,6,2,92,Needs Attention
+62,2,1,31,Needs Attention
+72,7,6,79,Needs Attention
+89,1,1,95,Excellent
+82,2,1,27,Good
+86,4,1,97,Good
+61,9,10,20,Needs Attention
+70,4,0,60,Needs Attention
+87,6,8,69,Needs Attention
+40,7,10,85,Needs Attention
+78,0,8,24,Needs Attention
+50,1,0,51,Needs Attention
+54,9,8,98,Needs Attention
+100,4,0,60,Needs Attention
+59,2,5,73,Needs Attention
+55,1,1,67,Good
+59,0,2,31,Needs Attention
+74,6,4,86,Needs Attention
+79,1,7,87,Good
+93,9,9,29,Needs Attention
+82,4,5,37,Needs Attention
+86,0,10,25,Needs Attention
+64,2,4,75,Good
+79,9,4,45,Needs Attention
+50,4,9,62,Needs Attention
+89,7,2,71,Good
+72,5,0,35,Needs Attention
+60,2,3,99,Good
+49,10,9,93,Needs Attention
+82,0,0,20,Good
+65,1,4,33,Needs Attention
+72,3,6,91,Needs Attention
+58,1,8,27,Needs Attention
+79,8,10,87,Needs Attention
+75,6,0,24,Needs Attention
+60,0,3,46,Needs Attention
+94,6,6,62,Needs Attention
+75,10,5,93,Needs Attention
+98,3,1,31,Needs Attention
+85,0,8,43,Needs Attention
+93,4,1,39,Needs Attention
+51,3,9,87,Needs Attention
+50,3,3,60,Needs Attention
+84,8,0,67,Good
+44,7,10,93,Needs Attention
+96,5,10,71,Needs Attention
+96,2,3,83,Excellent
+76,0,0,82,Excellent
+48,5,2,71,Needs Attention
+49,4,5,21,Needs Attention
+80,7,10,20,Needs Attention
+81,7,2,62,Needs Attention
+79,5,8,91,Needs Attention
+68,10,8,83,Needs Attention
+58,0,1,98,Good
+50,5,7,86,Needs Attention
+56,4,2,76,Needs Attention
+41,7,5,91,Needs Attention
+84,0,8,31,Needs Attention
+64,7,5,93,Needs Attention
+73,1,7,25,Needs Attention
+81,8,6,51,Needs Attention
+77,9,4,32,Needs Attention
+46,3,7,73,Needs Attention
+51,8,3,43,Needs Attention
+91,0,10,79,Good
+51,1,7,84,Needs Attention
+80,3,1,52,Needs Attention
+77,5,7,68,Needs Attention
+100,9,1,89,Good
+52,9,6,86,Needs Attention
+52,3,2,51,Needs Attention
+63,4,6,56,Needs Attention
+56,5,4,52,Needs Attention
+50,2,6,90,Needs Attention
+92,4,1,57,Needs Attention
+50,2,8,98,Needs Attention
+59,0,0,51,Needs Attention
+43,6,4,44,Needs Attention
+60,8,4,67,Needs Attention
+74,10,8,93,Needs Attention
+46,8,4,75,Needs Attention
+81,2,7,81,Good
+59,3,0,46,Needs Attention
+65,2,0,63,Needs Attention
+42,3,7,71,Needs Attention
+86,6,0,99,Good
+59,10,10,33,Needs Attention
+64,3,0,71,Needs Attention
+45,3,5,22,Needs Attention
+57,1,0,91,Good
+58,10,5,89,Needs Attention
+44,6,7,38,Needs Attention
+62,8,8,51,Needs Attention
+72,6,8,55,Needs Attention
+99,9,4,20,Needs Attention
+56,1,1,44,Needs Attention
+56,9,1,73,Needs Attention
+90,9,6,44,Needs Attention
+80,7,9,71,Needs Attention
+41,0,3,27,Needs Attention
+83,3,0,80,Good
+41,9,9,64,Needs Attention
+98,9,7,66,Needs Attention
+43,2,8,75,Needs Attention
+95,6,7,58,Needs Attention
+46,7,2,60,Needs Attention
+65,5,6,89,Needs Attention
+81,4,1,81,Good
+67,10,2,74,Needs Attention
+74,5,10,93,Needs Attention
+94,3,0,70,Good
+47,0,8,29,Needs Attention
+100,6,5,26,Needs Attention
+67,1,7,51,Needs Attention
+58,0,0,41,Needs Attention
+69,8,9,61,Needs Attention
+88,8,1,75,Good
+52,6,3,72,Needs Attention
+42,5,2,75,Needs Attention
+97,0,4,94,Excellent
+78,3,0,32,Needs Attention
+84,10,6,84,Needs Attention
+100,4,9,58,Needs Attention
+63,2,9,56,Needs Attention
+67,9,10,39,Needs Attention
+64,5,10,74,Needs Attention
+96,6,10,92,Needs Attention
+72,3,5,82,Needs Attention
+87,8,4,20,Needs Attention
+94,10,6,52,Needs Attention
+97,6,0,85,Good
+44,2,9,49,Needs Attention
+41,6,5,68,Needs Attention
+94,1,10,22,Needs Attention
+51,7,6,92,Needs Attention
+84,10,5,20,Needs Attention
+66,3,5,87,Needs Attention
+92,6,8,95,Needs Attention
+66,8,10,93,Needs Attention
+77,9,3,75,Good
+97,0,5,80,Good
+42,1,6,73,Needs Attention
+83,7,3,86,Good
+51,6,8,92,Needs Attention
+94,4,3,73,Good
+63,8,10,78,Needs Attention
+72,0,2,64,Needs Attention
+46,10,9,83,Needs Attention
+90,3,3,76,Good
+44,4,1,39,Needs Attention
+86,8,7,97,Needs Attention
+93,9,7,49,Needs Attention
+58,1,4,60,Needs Attention
+63,6,0,80,Needs Attention
+88,7,1,44,Needs Attention
+59,10,6,41,Needs Attention
+64,5,8,95,Needs Attention
+75,6,0,31,Needs Attention
+49,7,1,80,Needs Attention
+86,10,6,51,Needs Attention
+49,7,6,35,Needs Attention
+89,8,9,56,Needs Attention
+47,10,2,22,Needs Attention
+89,3,10,92,Needs Attention
+96,10,3,40,Needs Attention
+80,9,2,28,Needs Attention
+84,8,3,34,Needs Attention
+44,1,6,50,Needs Attention
+56,6,9,98,Needs Attention
+74,9,9,65,Needs Attention
+81,8,2,34,Needs Attention
+60,2,6,95,Needs Attention
+68,9,5,29,Needs Attention
+74,8,1,31,Needs Attention
+98,3,3,25,Needs Attention
+81,4,10,52,Needs Attention
+56,4,6,60,Needs Attention
+62,8,5,60,Needs Attention
+99,0,7,70,Good
+59,5,8,72,Needs Attention
+96,3,6,34,Needs Attention
+93,7,7,97,Needs Attention
+63,7,8,36,Needs Attention
+88,0,6,37,Needs Attention
+61,7,3,62,Needs Attention
+93,1,7,96,Good
+90,0,3,62,Good
+93,8,4,100,Good
+43,7,6,46,Needs Attention
+59,3,3,23,Needs Attention
+58,6,1,85,Needs Attention
+52,7,8,45,Needs Attention
+49,8,3,29,Needs Attention
+40,5,2,54,Needs Attention
+67,8,3,69,Needs Attention
+45,7,8,85,Needs Attention
+85,3,2,91,Good
+58,8,10,39,Needs Attention
+50,9,1,78,Needs Attention
+45,0,5,79,Needs Attention
+61,5,9,86,Needs Attention
+44,6,7,89,Needs Attention
+75,2,7,27,Needs Attention
+57,8,6,50,Needs Attention
+96,2,6,82,Good
+54,1,4,68,Good
+47,0,7,85,Needs Attention
+70,0,0,26,Needs Attention
+83,6,3,58,Needs Attention
+79,10,6,42,Needs Attention
+49,1,2,86,Good
+54,1,2,84,Good
+85,6,0,42,Needs Attention
+46,3,4,38,Needs Attention
+86,10,9,38,Needs Attention
+94,8,1,84,Good
+46,6,2,60,Needs Attention
+69,6,4,72,Needs Attention
+80,0,7,51,Needs Attention
+59,10,5,80,Needs Attention
+99,3,5,49,Needs Attention
+70,5,0,88,Needs Attention
+95,0,5,31,Needs Attention
+42,7,5,37,Needs Attention
+45,7,8,53,Needs Attention
+91,0,8,30,Needs Attention
+42,4,7,81,Needs Attention
+45,7,6,52,Needs Attention
+96,4,1,20,Needs Attention
+78,4,8,67,Needs Attention
+46,6,10,40,Needs Attention
+89,1,10,54,Needs Attention
+89,7,2,57,Needs Attention
+98,4,0,76,Good
+64,2,10,29,Needs Attention
+95,2,3,61,Good
+50,2,0,71,Good
+92,0,1,50,Good
+55,4,7,53,Needs Attention
+68,2,3,48,Needs Attention
+48,1,4,91,Good
+61,5,2,66,Needs Attention
+53,3,5,53,Needs Attention
+59,8,10,28,Needs Attention
+52,0,3,47,Needs Attention
+77,5,4,70,Good
+62,3,6,41,Needs Attention
+67,7,4,89,Needs Attention
+100,4,3,60,Needs Attention
+49,5,5,34,Needs Attention
+49,5,6,83,Needs Attention
+61,1,5,80,Needs Attention
+90,1,4,69,Excellent
+62,9,10,58,Needs Attention
+71,2,2,78,Good
+52,1,1,96,Good
+86,9,10,43,Needs Attention
+84,10,5,41,Needs Attention
+40,5,2,80,Needs Attention
+85,10,2,73,Good
+76,1,4,82,Excellent
+79,9,9,69,Needs Attention
+51,8,0,89,Needs Attention
+77,5,4,40,Needs Attention
+59,2,0,90,Good
+66,10,0,47,Needs Attention
+82,5,4,99,Good
+90,0,5,40,Needs Attention
+98,0,1,42,Good
+74,0,2,28,Needs Attention
+75,6,1,23,Needs Attention
+74,4,2,75,Needs Attention
+99,9,1,79,Good
+78,4,10,62,Needs Attention
+50,1,1,29,Needs Attention
+77,0,0,50,Good
+56,1,4,56,Needs Attention
+81,1,1,42,Good
+84,6,5,86,Needs Attention
+74,9,6,37,Needs Attention
+57,4,5,27,Needs Attention
+84,5,2,47,Needs Attention
+54,10,5,64,Needs Attention
+64,5,10,23,Needs Attention
+73,0,5,51,Needs Attention
+81,8,5,42,Needs Attention
+99,1,5,61,Needs Attention
+41,1,0,32,Needs Attention
+91,5,10,87,Needs Attention
+63,10,10,50,Needs Attention
+44,5,4,98,Needs Attention
+43,3,5,61,Needs Attention
+66,10,1,36,Needs Attention
+99,0,7,25,Needs Attention
+87,8,2,61,Needs Attention
+79,0,4,92,Excellent
+86,1,6,63,Needs Attention
+88,2,1,90,Excellent
+95,5,5,70,Needs Attention
+63,4,5,36,Needs Attention
+96,1,10,67,Good
+97,3,1,80,Good
+40,4,4,89,Needs Attention
+81,7,9,45,Needs Attention
+81,7,4,51,Needs Attention
+83,2,5,63,Needs Attention
+79,10,10,86,Needs Attention
+57,2,9,98,Needs Attention
+95,8,5,58,Needs Attention
+87,9,10,23,Needs Attention
+68,2,9,46,Needs Attention
+58,9,4,39,Needs Attention
+76,7,0,50,Needs Attention
+81,10,9,68,Needs Attention
+57,10,8,33,Needs Attention
+76,10,10,76,Needs Attention
+98,6,6,80,Needs Attention
+84,1,1,89,Excellent
+43,3,2,89,Needs Attention
+99,5,3,91,Good
+91,10,10,67,Needs Attention
+95,7,0,47,Needs Attention
+48,10,2,30,Needs Attention
+41,9,5,42,Needs Attention
+67,6,10,88,Needs Attention
+61,2,3,97,Good
+55,0,10,48,Needs Attention
+94,2,10,71,Good
+99,9,5,64,Needs Attention
+81,6,1,85,Good
+80,3,6,44,Needs Attention
+46,10,8,31,Needs Attention
+91,9,4,91,Good
+53,9,8,54,Needs Attention
+64,7,8,72,Needs Attention
+100,6,9,51,Needs Attention
+84,5,0,58,Needs Attention
+99,6,0,28,Needs Attention
+70,8,7,22,Needs Attention
+82,5,9,21,Needs Attention
+42,2,9,72,Needs Attention
+56,9,6,80,Needs Attention
+100,10,0,81,Good
+68,10,5,99,Needs Attention
+65,5,8,42,Needs Attention
+63,2,5,63,Needs Attention
+55,10,8,91,Needs Attention
+45,7,5,50,Needs Attention
+52,3,5,21,Needs Attention
+87,8,0,92,Good
+90,10,8,61,Needs Attention
+40,4,1,84,Needs Attention
+87,5,5,79,Needs Attention
+45,7,9,67,Needs Attention
+76,2,8,36,Needs Attention
+89,8,8,22,Needs Attention
+85,5,3,23,Needs Attention
+44,5,6,81,Needs Attention
+82,1,4,99,Excellent
+84,5,9,28,Needs Attention
+94,0,7,93,Good
+92,10,1,82,Good
+50,10,6,27,Needs Attention
+47,3,4,38,Needs Attention
+80,3,6,45,Needs Attention
+43,5,2,89,Needs Attention
+90,2,6,59,Needs Attention
+89,7,6,52,Needs Attention
+70,1,5,32,Needs Attention
+96,1,1,58,Good
+100,6,7,96,Needs Attention
+98,2,3,23,Good
+95,10,10,49,Needs Attention
+54,1,1,30,Needs Attention
+71,6,4,23,Needs Attention
+95,9,6,93,Needs Attention
+73,5,8,45,Needs Attention
+67,6,3,68,Needs Attention
+44,6,1,25,Needs Attention
+40,9,1,26,Needs Attention
+96,2,9,68,Good
+50,6,1,53,Needs Attention
+95,6,2,75,Good
+64,1,8,96,Needs Attention
+78,0,7,53,Needs Attention
+75,9,10,99,Needs Attention
+94,0,7,60,Needs Attention
+87,3,1,71,Good
+81,1,4,63,Good
+52,3,7,30,Needs Attention
+63,3,3,92,Needs Attention
+55,3,4,75,Needs Attention
+69,5,0,96,Needs Attention
+58,7,10,79,Needs Attention
+81,7,9,75,Needs Attention
+89,4,1,70,Good
+51,5,10,90,Needs Attention
+50,0,5,93,Needs Attention
+42,0,6,73,Needs Attention
+73,7,2,51,Needs Attention
+85,0,8,25,Needs Attention
+77,6,8,39,Needs Attention
+90,3,5,88,Needs Attention
+49,5,6,94,Needs Attention
+45,9,1,24,Needs Attention
+55,9,0,47,Needs Attention
+69,8,4,70,Needs Attention
+43,9,8,42,Needs Attention
+59,4,8,83,Needs Attention
+40,2,3,96,Good
+94,10,1,33,Needs Attention
+56,10,3,53,Needs Attention
+82,4,0,86,Good
+96,0,8,88,Good
+44,8,1,29,Needs Attention
+56,9,8,85,Needs Attention
+83,4,6,69,Needs Attention
+50,7,8,35,Needs Attention
+79,8,2,33,Needs Attention
+48,10,8,60,Needs Attention
+56,8,2,55,Needs Attention
+84,8,9,44,Needs Attention
+42,2,0,44,Needs Attention
+52,10,1,83,Needs Attention
+94,5,8,95,Needs Attention
+50,3,2,73,Needs Attention
+71,3,7,58,Needs Attention
+45,1,9,82,Needs Attention
+91,4,2,100,Good
+64,8,10,26,Needs Attention
+93,8,2,51,Needs Attention
+69,6,5,65,Needs Attention
+52,1,10,74,Needs Attention
+100,7,7,70,Needs Attention
+50,10,9,61,Needs Attention
+63,6,5,35,Needs Attention
+63,3,8,36,Needs Attention
+65,10,9,39,Needs Attention
+64,0,2,59,Needs Attention
+80,7,1,76,Good
+74,9,5,47,Needs Attention
+93,3,1,71,Good
+79,2,0,66,Excellent
+70,3,0,20,Needs Attention
+67,6,8,40,Needs Attention
+67,8,5,42,Needs Attention
+63,4,0,88,Needs Attention
+71,3,0,55,Needs Attention
+87,8,0,43,Needs Attention
+47,8,0,90,Needs Attention
+57,3,10,30,Needs Attention
+56,7,10,70,Needs Attention
+63,5,2,60,Needs Attention
+65,8,0,39,Needs Attention
+84,2,4,65,Excellent
+90,5,8,49,Needs Attention
+46,0,0,59,Needs Attention
+85,9,0,83,Good
+82,0,9,97,Good
+76,8,5,94,Needs Attention
+97,2,9,27,Needs Attention
+60,0,4,41,Needs Attention
+78,10,4,67,Good
+78,7,6,58,Needs Attention
+53,1,10,59,Needs Attention
+71,0,8,28,Needs Attention
+88,5,1,66,Good
+54,0,5,20,Needs Attention
+71,3,6,88,Needs Attention
+52,3,2,41,Needs Attention
+50,5,6,22,Needs Attention
+80,5,10,22,Needs Attention
+94,5,5,75,Needs Attention
+75,1,2,45,Good
+98,1,7,71,Good
+45,7,10,20,Needs Attention
+93,8,2,29,Needs Attention
+79,0,7,67,Good
+86,6,6,35,Needs Attention
+89,6,9,70,Needs Attention
+95,7,6,87,Needs Attention
+62,8,3,73,Needs Attention
+54,5,3,68,Needs Attention
+65,4,9,78,Needs Attention
+45,10,6,31,Needs Attention
+62,7,6,25,Needs Attention
+74,0,2,41,Needs Attention
+51,10,2,47,Needs Attention
+50,6,3,98,Needs Attention
+93,9,6,52,Needs Attention
+46,3,0,21,Needs Attention
+44,3,3,97,Needs Attention
+47,8,9,99,Needs Attention
+93,5,4,35,Needs Attention
+96,6,0,30,Needs Attention
+54,3,2,90,Needs Attention
+57,8,0,60,Needs Attention
+76,3,0,45,Needs Attention
+56,10,6,43,Needs Attention
+100,4,0,75,Good
+60,3,5,61,Needs Attention
+80,8,1,34,Needs Attention
+44,5,2,26,Needs Attention
+69,9,9,59,Needs Attention
+84,6,0,34,Needs Attention
+57,0,6,35,Needs Attention
+93,10,7,23,Needs Attention
+94,1,7,43,Needs Attention
+83,6,0,65,Good
+97,0,0,87,Excellent
+44,6,5,90,Needs Attention
+82,10,10,99,Needs Attention
+69,7,3,42,Needs Attention
+54,1,9,95,Needs Attention
+62,10,8,43,Needs Attention
+71,1,7,31,Needs Attention
+92,2,0,60,Good
+64,1,10,74,Needs Attention
+85,0,2,89,Excellent
+61,2,0,21,Needs Attention
+61,6,4,86,Needs Attention
+83,8,7,77,Needs Attention
+96,6,2,46,Needs Attention
+40,2,6,93,Needs Attention
+82,2,7,52,Needs Attention
+61,1,9,36,Needs Attention
+91,7,7,36,Needs Attention
+93,7,5,75,Needs Attention
+79,4,1,74,Good
+65,7,4,53,Needs Attention
+70,3,0,48,Needs Attention
+75,0,10,63,Needs Attention
+62,6,2,54,Needs Attention
+80,10,1,80,Good
+61,5,4,68,Needs Attention
+59,9,10,27,Needs Attention
+58,2,3,97,Good
+47,0,10,48,Needs Attention
+56,1,9,64,Needs Attention
+84,10,1,48,Needs Attention
+95,6,7,71,Needs Attention
+49,8,8,80,Needs Attention
+54,2,10,53,Needs Attention
+52,1,2,62,Needs Attention
+68,1,6,76,Needs Attention
+66,3,8,90,Needs Attention
+85,4,9,56,Needs Attention
+72,4,3,26,Needs Attention
+92,4,4,96,Good
+58,8,0,78,Needs Attention
+70,8,10,23,Needs Attention
+60,10,3,89,Needs Attention
+60,4,3,36,Needs Attention
+57,9,4,46,Needs Attention
+100,9,2,32,Needs Attention
+88,5,1,78,Good
+65,9,6,99,Needs Attention
+64,7,3,41,Needs Attention
+50,7,7,45,Needs Attention
+47,1,1,65,Good
+44,4,10,61,Needs Attention
+98,10,1,74,Good
+98,6,8,93,Needs Attention
+44,8,0,93,Needs Attention
+45,5,4,76,Needs Attention
+87,7,1,31,Needs Attention
+92,4,5,69,Needs Attention
+47,4,4,25,Needs Attention
+74,5,3,46,Needs Attention
+66,9,0,77,Needs Attention
+71,1,9,68,Needs Attention
+77,2,5,68,Good
+94,7,8,95,Needs Attention
+88,5,8,58,Needs Attention
+58,3,4,59,Needs Attention
+70,4,1,29,Needs Attention
+41,5,7,79,Needs Attention
+48,1,7,44,Needs Attention
+40,5,9,52,Needs Attention
+51,9,2,46,Needs Attention
+44,6,2,79,Needs Attention
+70,8,2,68,Needs Attention
+50,10,9,22,Needs Attention
+72,0,1,74,Good
+54,7,1,49,Needs Attention
+51,8,7,67,Needs Attention
+53,4,6,80,Needs Attention
+98,6,3,26,Needs Attention
+80,0,7,30,Needs Attention
+94,6,5,33,Needs Attention
+68,6,3,50,Needs Attention
+56,9,4,64,Needs Attention
+98,9,7,21,Needs Attention
+46,5,4,27,Needs Attention
+63,9,2,35,Needs Attention
+97,8,5,73,Needs Attention
+95,3,9,49,Needs Attention
+99,1,0,43,Good
+99,8,1,49,Needs Attention
+67,10,4,55,Needs Attention
+87,7,6,40,Needs Attention
+71,4,4,58,Needs Attention
+89,6,9,86,Needs Attention
+77,9,8,36,Needs Attention
+86,4,4,91,Good
+60,5,3,76,Needs Attention
+88,3,9,62,Needs Attention
+89,8,5,38,Needs Attention
+43,0,10,34,Needs Attention
+49,5,8,42,Needs Attention
+52,10,9,96,Needs Attention
+78,8,8,67,Needs Attention
+99,6,2,65,Good
+67,4,9,79,Needs Attention
+45,3,3,59,Needs Attention
+65,9,4,65,Needs Attention
+95,9,4,80,Good
+51,10,8,61,Needs Attention
+96,2,6,62,Needs Attention
+78,5,5,42,Needs Attention
+74,1,0,64,Needs Attention
+44,0,9,100,Needs Attention
+72,7,7,55,Needs Attention
+60,6,8,51,Needs Attention
+43,1,5,60,Needs Attention
+42,3,7,91,Needs Attention
+70,3,6,25,Needs Attention
+58,7,0,76,Needs Attention
+72,5,7,32,Needs Attention
+40,9,5,47,Needs Attention
+80,4,2,61,Needs Attention
+47,4,4,36,Needs Attention
+99,10,2,93,Good
+51,0,6,95,Needs Attention
+87,4,2,88,Good
+65,5,4,49,Needs Attention
+59,7,9,56,Needs Attention
+80,9,5,84,Needs Attention
+53,6,8,68,Needs Attention
+84,10,9,64,Needs Attention
+81,7,9,84,Needs Attention
+76,9,4,67,Good
+48,3,7,27,Needs Attention
+43,3,10,51,Needs Attention
+70,9,3,55,Needs Attention
+95,7,5,41,Needs Attention
+63,3,5,48,Needs Attention
+74,9,9,45,Needs Attention
+40,3,9,42,Needs Attention
+69,5,8,86,Needs Attention
+100,5,5,80,Needs Attention
+54,1,9,76,Needs Attention
+51,10,1,21,Needs Attention
+80,1,7,26,Needs Attention
+50,1,3,46,Needs Attention
+65,8,2,84,Needs Attention
+59,3,7,74,Needs Attention
+48,0,2,41,Needs Attention
+96,2,4,87,Excellent
+52,2,6,38,Needs Attention
+76,10,10,42,Needs Attention
+75,6,8,75,Needs Attention
+98,10,3,75,Good
+49,6,5,76,Needs Attention
+86,10,9,63,Needs Attention
+43,4,7,47,Needs Attention
+75,2,6,50,Needs Attention
+87,3,6,93,Needs Attention
+72,6,7,73,Needs Attention
+47,3,4,76,Needs Attention
+49,6,7,44,Needs Attention
+57,9,5,100,Needs Attention
+77,6,2,96,Good
+100,9,8,66,Needs Attention
+70,4,7,69,Needs Attention
+71,10,1,53,Needs Attention
+51,0,0,67,Good
+67,10,0,33,Needs Attention
+65,4,6,95,Needs Attention
+56,1,6,99,Needs Attention
+56,3,2,58,Needs Attention
+99,0,2,90,Excellent
+45,2,2,54,Needs Attention
+44,0,7,54,Needs Attention
+93,3,8,31,Needs Attention
+59,9,7,44,Needs Attention
+82,4,1,58,Needs Attention
+80,0,4,79,Excellent
+74,7,6,78,Needs Attention
+79,2,1,30,Good
+56,3,10,31,Needs Attention
+70,6,0,54,Needs Attention
+66,3,10,79,Needs Attention
+59,8,7,20,Needs Attention
+96,8,6,94,Needs Attention
+83,6,8,67,Needs Attention
+54,5,2,58,Needs Attention
+43,5,9,68,Needs Attention
+79,6,3,79,Good
+72,8,6,79,Needs Attention
+51,10,8,21,Needs Attention
+75,4,2,68,Good
+81,9,2,28,Needs Attention
+55,10,3,71,Needs Attention
+58,10,3,70,Needs Attention
+44,8,2,39,Needs Attention
+62,7,5,90,Needs Attention
+84,4,10,66,Needs Attention
+100,4,8,70,Needs Attention
+94,7,4,56,Needs Attention
+77,4,5,75,Needs Attention
+64,5,5,72,Needs Attention
+48,2,2,82,Good
+54,1,8,69,Needs Attention
+75,9,3,89,Good
+60,4,4,81,Needs Attention
+98,5,1,41,Needs Attention
+69,6,9,52,Needs Attention
+72,1,4,76,Good
+57,0,5,80,Needs Attention
+84,4,3,98,Good
+98,3,3,52,Needs Attention
+78,8,3,76,Good
+95,0,6,89,Good
+61,8,0,51,Needs Attention
+85,0,0,84,Excellent
+75,1,6,39,Needs Attention
+60,0,2,28,Needs Attention
+76,7,6,38,Needs Attention
+85,0,3,93,Excellent
+94,0,5,44,Needs Attention
+92,3,7,38,Needs Attention
+57,2,10,61,Needs Attention
+53,5,2,58,Needs Attention
+99,10,7,58,Needs Attention
+86,8,7,39,Needs Attention
+93,7,5,95,Needs Attention
+84,3,10,53,Needs Attention
+84,2,3,44,Good
+73,3,5,61,Needs Attention
+97,10,2,65,Good
+81,1,8,61,Needs Attention
+78,6,4,94,Good
+87,9,4,54,Needs Attention
+100,2,1,27,Good
+84,1,8,45,Needs Attention
+89,9,6,41,Needs Attention
+80,10,6,31,Needs Attention
+92,7,1,32,Needs Attention
+85,1,9,91,Good
+100,6,4,90,Good
+81,8,1,87,Good
+99,0,2,57,Good
+86,10,10,45,Needs Attention
+83,2,1,74,Excellent
+90,9,8,96,Needs Attention
+98,8,6,42,Needs Attention
+84,0,9,64,Needs Attention
+47,6,7,53,Needs Attention
+59,1,6,74,Needs Attention
+45,4,9,67,Needs Attention
+67,6,9,76,Needs Attention
+59,2,4,65,Good
+100,0,1,71,Excellent
+83,10,9,45,Needs Attention
+68,1,5,52,Needs Attention
+81,3,9,91,Needs Attention
+72,1,4,52,Needs Attention
+96,8,10,73,Needs Attention
+90,7,1,55,Needs Attention
+94,8,0,34,Needs Attention
+98,3,2,45,Needs Attention
+40,0,1,75,Good
+70,5,0,24,Needs Attention
+45,6,10,77,Needs Attention
+56,7,4,21,Needs Attention
+63,3,7,75,Needs Attention
+57,4,2,22,Needs Attention
+64,2,4,83,Good
+59,8,10,74,Needs Attention
+58,2,5,82,Needs Attention
+66,5,9,88,Needs Attention
+53,10,0,68,Needs Attention
+62,10,8,41,Needs Attention
+85,2,3,72,Excellent
+90,6,3,88,Good
+93,8,5,56,Needs Attention
+47,5,7,88,Needs Attention
+89,5,10,99,Needs Attention
+48,9,2,45,Needs Attention
+41,8,9,50,Needs Attention
+84,5,5,67,Needs Attention
+63,2,8,49,Needs Attention
+58,5,10,49,Needs Attention
+86,2,2,29,Good
+100,0,6,87,Good
+75,6,5,76,Needs Attention
+94,3,3,67,Good
+69,5,5,27,Needs Attention
+90,3,8,97,Needs Attention
+91,1,9,30,Needs Attention
+71,0,1,94,Good
+42,2,6,78,Needs Attention
+75,3,3,69,Good
+70,4,2,43,Needs Attention
+88,0,3,62,Good
+88,4,5,68,Needs Attention
+43,1,2,43,Needs Attention
+74,0,1,78,Good
+59,5,7,68,Needs Attention
+51,5,8,98,Needs Attention
+62,9,9,51,Needs Attention
+73,3,10,42,Needs Attention
+45,7,3,64,Needs Attention
+65,3,1,86,Needs Attention
+61,8,0,69,Needs Attention
+47,9,8,80,Needs Attention
+97,3,6,29,Needs Attention
+93,9,1,72,Good
+45,10,2,74,Needs Attention
+58,0,0,73,Good
+58,7,3,37,Needs Attention
+62,1,6,64,Needs Attention
+100,8,1,29,Needs Attention
+98,3,10,44,Needs Attention
+58,2,5,97,Needs Attention
+94,10,4,70,Good
+79,3,10,33,Needs Attention
+99,8,0,22,Needs Attention
+66,9,6,21,Needs Attention
+74,8,9,45,Needs Attention
+90,7,7,46,Needs Attention
+61,5,7,99,Needs Attention
+56,10,2,50,Needs Attention
+58,7,4,50,Needs Attention
+65,1,10,79,Needs Attention
+52,9,1,47,Needs Attention
+72,1,9,81,Needs Attention
+46,2,3,59,Needs Attention
+43,3,7,99,Needs Attention
+77,2,10,55,Needs Attention
+44,9,3,50,Needs Attention
+51,6,9,61,Needs Attention
+56,2,10,39,Needs Attention
+47,4,5,75,Needs Attention
+41,2,3,38,Needs Attention
+97,4,9,88,Needs Attention
+47,0,2,21,Needs Attention
+98,3,10,39,Needs Attention
+88,7,5,100,Needs Attention
+57,8,9,35,Needs Attention
+94,8,6,82,Needs Attention
+75,10,9,42,Needs Attention
+67,4,9,72,Needs Attention
+43,3,4,83,Needs Attention
+89,4,4,59,Needs Attention
